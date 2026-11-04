@@ -2,6 +2,7 @@
   "name": "fe-lab7",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://vladyslavpng.github.io/7st-laba-in-Front-End/",
   "dependencies": {
     "@testing-library/dom": "^10.4.2",
     "@testing-library/jest-dom": "^6.9.1",
